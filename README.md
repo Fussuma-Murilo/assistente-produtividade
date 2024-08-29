@@ -5,5 +5,5 @@ Este é um script em batch feito com o intuíto de automatizar funções básica
 ***
 - Funcionalidades:
   - Cópia de modelos de texto utilizados pela empresa
-  - Execução automática de programas essênciais no dia a dia
+  - Execução automática de programas essenciais no dia a dia
   
